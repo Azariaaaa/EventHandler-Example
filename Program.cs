@@ -4,7 +4,7 @@
     {
         static void Main(string[] args)
         {
-            Counter counter = new Counter (15,26);
+            Counter counter = new Counter (0,30);
             PairDetector pairDetector = new PairDetector("Pair");
 
             counter.OnPair += pairDetector.DisplayPairNumbers;
