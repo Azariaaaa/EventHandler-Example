@@ -1,0 +1,14 @@
+C:\Users\krust\OneDrive\Bureau\C#\EventTrainingCounter\EventTrainingCounter\bin\Debug\net8.0\EventTrainingCounter.exe
+C:\Users\krust\OneDrive\Bureau\C#\EventTrainingCounter\EventTrainingCounter\bin\Debug\net8.0\EventTrainingCounter.deps.json
+C:\Users\krust\OneDrive\Bureau\C#\EventTrainingCounter\EventTrainingCounter\bin\Debug\net8.0\EventTrainingCounter.runtimeconfig.json
+C:\Users\krust\OneDrive\Bureau\C#\EventTrainingCounter\EventTrainingCounter\bin\Debug\net8.0\EventTrainingCounter.dll
+C:\Users\krust\OneDrive\Bureau\C#\EventTrainingCounter\EventTrainingCounter\bin\Debug\net8.0\EventTrainingCounter.pdb
+C:\Users\krust\OneDrive\Bureau\C#\EventTrainingCounter\EventTrainingCounter\obj\Debug\net8.0\EventTrainingCounter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\krust\OneDrive\Bureau\C#\EventTrainingCounter\EventTrainingCounter\obj\Debug\net8.0\EventTrainingCounter.AssemblyInfoInputs.cache
+C:\Users\krust\OneDrive\Bureau\C#\EventTrainingCounter\EventTrainingCounter\obj\Debug\net8.0\EventTrainingCounter.AssemblyInfo.cs
+C:\Users\krust\OneDrive\Bureau\C#\EventTrainingCounter\EventTrainingCounter\obj\Debug\net8.0\EventTrainingCounter.csproj.CoreCompileInputs.cache
+C:\Users\krust\OneDrive\Bureau\C#\EventTrainingCounter\EventTrainingCounter\obj\Debug\net8.0\EventTrainingCounter.dll
+C:\Users\krust\OneDrive\Bureau\C#\EventTrainingCounter\EventTrainingCounter\obj\Debug\net8.0\refint\EventTrainingCounter.dll
+C:\Users\krust\OneDrive\Bureau\C#\EventTrainingCounter\EventTrainingCounter\obj\Debug\net8.0\EventTrainingCounter.pdb
+C:\Users\krust\OneDrive\Bureau\C#\EventTrainingCounter\EventTrainingCounter\obj\Debug\net8.0\EventTrainingCounter.genruntimeconfig.cache
+C:\Users\krust\OneDrive\Bureau\C#\EventTrainingCounter\EventTrainingCounter\obj\Debug\net8.0\ref\EventTrainingCounter.dll
