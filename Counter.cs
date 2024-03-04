@@ -14,11 +14,11 @@ namespace EventTrainingCounter
 
         public event EventHandler<CounterEventArgs> OnPair;
 
-        public Counter(int count, int endCount)
+        public Counter(int startCount, int endCount)
         {
-            StartCount = count;
+            StartCount = startCount;
             EndCount = endCount;
-            Count = count;
+            Count = startCount;
         }
 
         public void StartCounter() 
